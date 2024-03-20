@@ -1,0 +1,42 @@
+body {
+ background: #ccc
+}
+p{
+  text-align:center;
+}
+em{
+  color: #ff0000
+}
+#baner{width:100%
+}
+h1{
+  text-aling:center
+}
+h2{
+  text-aling: center;
+  front-size: 60px;
+}
+.itens{
+   font-style:italic
+}
+.benificios{
+  background:#ffffff;
+  padding: 20%;
+
+}
+ul{
+  text-aling:inline-block;
+    width: 20%;
+  margin-rigth: 15%;
+  vertical-aling: top;
+  front-size: 40px;
+}
+.imagembeneficios{
+  width:50%;
+    border-radius: 35px;
+}
+header{
+  text-aling:center;
+    backgrond-color: #ffffff; 
+  
+}

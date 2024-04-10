@@ -40,3 +40,41 @@ header{
     backgrond-color: #ffffff; 
   
 }
+header ul li{
+  display:inline-block;
+  text-decoration: none;
+  padding: 10px;
+  front-size: 20px;
+}
+header ul{
+  width:100%;
+}
+header ul li a{
+  color: #000;
+  text-decoration: none;
+}
+.produtos h2{
+  width:94px;
+  margin:0 auto;
+}
+.produtos li{
+  display: inline-block;
+  text-aling: center;
+  width: 30%;
+
+}
+.cabelo{
+width:10%;
+    border-radius: 35px;
+}
+
+.produtos h2{
+  front: size 30px;
+  front-weight:bold;
+}
+
+.produtos li img{
+  width: 100%;
+  height: 200px;
+}
+
